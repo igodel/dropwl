@@ -1,0 +1,21 @@
+# Ignorar carpetas de dependencias (¡MUY IMPORTANTE!)
+node_modules/
+vendor/
+
+# Ignorar archivos de compilación o builds
+build/
+dist/
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de variables de entorno (contienen secretos)
+.env
+
+# Ignorar archivos comprimidos grandes
+*.zip
+*.rar
