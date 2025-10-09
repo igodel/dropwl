@@ -1,0 +1,1219 @@
+[info] Encontrados 609 results.csv
+ - results/paper_c4_full/c4_n16/WL/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n16/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/WL/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n24/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/WL/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n32/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/WL/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n40/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/WL/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n44/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/WL/results.csv
+ - results/paper_c4_full/c4_n8/_smoke/results.csv
+ - results/paper_c4_full/c4_n8/dropWL-MLP_L5_W2_d32/results.csv
+ - results/paper_c4_full/c4_n8/dropWL-mean/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mean/p0.1_R100/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mean/p0.1_R50/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mean/p0.2_R100/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mean/p0.2_R50/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.1_R50_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R100_L5_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L10_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L2_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L3_H64_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H128_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H128_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H20_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H20_D64_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H64_D32_relu/results.csv
+ - results/paper_c4_full/c4_n8/dropWL_mlp/p0.2_R50_L5_H64_D64_relu/results.csv
+[pcheck] n=16 variant=WL           p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=16 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=WL           p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=24 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=WL           p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=32 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=WL           p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=40 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=WL           p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n=44 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=WL           p=(sin_columna_p)
+[pcheck] n= 8 variant=_smoke       p=(sin_columna_p)
+[pcheck] n= 8 variant=dropWL-MLP_L5_W2_d32 p=(sin_columna_p)
+[pcheck] n= 8 variant=dropWL-mean  p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100    p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50     p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100    p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50     p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.1_R50_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R100_L5_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L10_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L2_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L3_H64_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H128_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H128_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H20_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H20_D64_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H64_D32_relu p=(sin_columna_p)
+[pcheck] n= 8 variant=p0.2_R50_L5_H64_D64_relu p=(sin_columna_p)
