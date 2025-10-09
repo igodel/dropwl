@@ -18,16 +18,16 @@ Nota:
     - Esta observación sirve como baseline para luego mostrar
       cómo drop-WL sí puede distinguir con alta probabilidad bajo dropout.
 """
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 from typing import Dict, Any
 import networkx as nx
 
 from src.core.wl_refinement import compute_wl_colors, color_histograma
 
-import sys
-from pathlib import Path
 
-sys.path.append(str(Path(__file__).resolve().parents[1]))
 
 def construir_ciclo(n: int) -> nx.Graph:
     """
