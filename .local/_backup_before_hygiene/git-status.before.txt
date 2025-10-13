@@ -1,0 +1,81 @@
+En la rama hygiene-startpoint-20251012
+Cambios no rastreados para el commit:
+  (usa "git add/rm <archivo>..." para actualizar a lo que se le va a hacer commit)
+  (usa "git restore <archivo>..." para descartar los cambios en el directorio de trabajo)
+	borrados:        WL_p_compare_test.png
+	borrados:        WL_p_compare_train.png
+	borrados:        dropWL+MLP_p_compare_test.png
+	borrados:        dropWL+MLP_p_compare_train.png
+	borrados:        dropWL-mean_p_compare_test.png
+	borrados:        dropWL-mean_p_compare_train.png
+	borrados:        fill_p02_jobs.sh
+	borrados:        report_compare_p01.pdf
+	borrados:        report_compare_p01_rescaled.pdf
+	borrados:        report_compare_p01_rescaled_test_p01_rescaled.png
+	borrados:        report_compare_p01_rescaled_train_p01_rescaled.png
+	borrados:        report_compare_p01_test_p01.png
+	borrados:        report_compare_p01_train_p01.png
+	borrados:        report_compare_p02.pdf
+	borrados:        report_compare_p02_rescaled.pdf
+	borrados:        report_compare_p02_rescaled_test_p02_rescaled.png
+	borrados:        report_compare_p02_rescaled_train_p02_rescaled.png
+	borrados:        report_compare_p02_test_p02.png
+	borrados:        report_compare_p02_train_p02.png
+	borrados:        report_compare_p02_y055_095.pdf
+	borrados:        report_compare_p02_y055_095_test_p02_y055_095.png
+	borrados:        report_compare_p02_y055_095_train_p02_y055_095.png
+	borrados:        report_extended_p01_p02.pdf
+	borrados:        report_p01_WL.pdf
+	borrados:        report_p01_WL_test_all.png
+	borrados:        report_p01_WL_test_best.png
+	borrados:        report_p01_WL_train_all.png
+	borrados:        report_p01_WL_train_best.png
+	borrados:        report_p01_combined.pdf
+	borrados:        report_p01_dropWL_MLP.pdf
+	borrados:        report_p01_dropWL_MLP_test_all.png
+	borrados:        report_p01_dropWL_MLP_test_best.png
+	borrados:        report_p01_dropWL_MLP_train_all.png
+	borrados:        report_p01_dropWL_MLP_train_best.png
+	borrados:        report_p01_dropWL_mean.pdf
+	borrados:        report_p01_dropWL_mean_test_all.png
+	borrados:        report_p01_dropWL_mean_test_best.png
+	borrados:        report_p01_dropWL_mean_train_all.png
+	borrados:        report_p01_dropWL_mean_train_best.png
+	borrados:        report_p01_vs_p02.pdf
+	borrados:        report_p02_WL.pdf
+	borrados:        report_p02_WL_test_all.png
+	borrados:        report_p02_WL_test_best.png
+	borrados:        report_p02_WL_train_all.png
+	borrados:        report_p02_WL_train_best.png
+	borrados:        report_p02_combined.pdf
+	borrados:        report_p02_dropWL_MLP.pdf
+	borrados:        report_p02_dropWL_MLP_test_all.png
+	borrados:        report_p02_dropWL_MLP_test_best.png
+	borrados:        report_p02_dropWL_MLP_train_all.png
+	borrados:        report_p02_dropWL_MLP_train_best.png
+	borrados:        report_p02_dropWL_mean.pdf
+	borrados:        report_p02_dropWL_mean_test_all.png
+	borrados:        report_p02_dropWL_mean_test_best.png
+	borrados:        report_p02_dropWL_mean_train_all.png
+	borrados:        report_p02_dropWL_mean_train_best.png
+	borrados:        report_p_fixed.pdf
+	borrados:        report_p_fixed_test_all.png
+	borrados:        report_p_fixed_test_best.png
+	borrados:        report_p_fixed_train_all.png
+	borrados:        report_p_fixed_train_best.png
+	borrados:        run_paper_c4_capacity.sh
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	_backup_local_before_cleanup/
+	data_paper_f1/
+	data_synth/
+	jobs_fase1.txt
+	jobs_full.txt
+	jobs_full_numbered.txt
+	phase1_full_global_table.csv
+	phase1_full_times.csv
+	run_phase1.log
+	tools/
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")

@@ -15,3 +15,4 @@ results/
 logs/
 # cuadernos con salida
 *.ipynb_checkpoints/
+.local/
