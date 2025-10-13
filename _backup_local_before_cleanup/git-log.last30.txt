@@ -1,0 +1,6 @@
+24ce9c5 Reorganiza reportes en carpeta general_reports/
+3714ce1 init: código dropWL + scripts de experimentos
+72f5d43 Merge branch 'main' of https://github.com/igodel/dropwl
+0f6b780 feat: Add remaining project files
+42539c9 feat: Add .gitignore file
+c9e3d44 Initial commit

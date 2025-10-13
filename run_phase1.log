@@ -1,0 +1,16 @@
+[PLAN] Total de trabajos: 165
+[1/165    0.6%] DATASET=C4_n8           MODEL=WL           SEED=20250925  -> results/fase1_simple/C4_n8/WL/seed_20250925
+Traceback (most recent call last):
+  File "/Users/igodel/Documents/Doctorado/Tesis/dropwl/scripts/run_phase1_simple.py", line 109, in <module>
+    main()
+  File "/Users/igodel/Documents/Doctorado/Tesis/dropwl/scripts/run_phase1_simple.py", line 101, in main
+    rc = run(cmd)
+  File "/Users/igodel/Documents/Doctorado/Tesis/dropwl/scripts/run_phase1_simple.py", line 32, in run
+    return subprocess.run(
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 505, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1823, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'PYTHONPATH=.'
